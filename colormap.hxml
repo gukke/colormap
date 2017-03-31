@@ -2,3 +2,4 @@
 -js bin/colormap.js
 -cp src
 -lib dataclass
+-lib hxnodejs

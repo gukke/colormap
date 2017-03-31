@@ -1,1 +1,3 @@
 /bin/colormap.js
+node_modules
+.env
