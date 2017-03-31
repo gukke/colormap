@@ -1,0 +1,4 @@
+-main ColorMap
+-js bin/colormap.js
+-cp src
+-lib dataclass
